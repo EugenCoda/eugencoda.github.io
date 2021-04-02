@@ -6,6 +6,10 @@ Portfolio Website
 
 ## [Frontend Mentor Challenges](https://www.frontendmentor.io/challenges)
 
+- [3 Column Preview Card Component](https://3-column-preview-card-component-frontend-challenge.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-3-column-preview-card-component)
+
+- [Single Price Grid Component](https://single-price-grid-component-frontend-challenge.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-single-price-grid-component)
+
 - [Intro Component With Signup Form](https://intro-component-signup-form-frontend-challenge.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-intro-component-with-signup)
 
 - [Base Apparel Coming Soon](https://base-apparel-coming-soon-frontend-challenge.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-base-apparel-coming-soon)
