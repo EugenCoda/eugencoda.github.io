@@ -4,7 +4,11 @@ Portfolio Website
 
 # Some of my recent projects:
 
-## [Frontend Mentor Challenges](https://www.frontendmentor.io/challenges)
+## [Frontend Mentor Challenges](https://www.frontendmentor
+
+- [Huddle Landing Page](https://huddle-landing-page-frontend-challenge.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-huddle-landing-page)
+
+- [Ping Coming Soon Page](https://ping-coming-soon-page-frontend-challenge.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-ping-coming-soon-page)
 
 - [3 Column Preview Card Component](https://3-column-preview-card-component-frontend-challenge.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-3-column-preview-card-component)
 
