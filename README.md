@@ -4,7 +4,7 @@ Portfolio Website
 
 # Some of my recent projects:
 
-## [Frontend Mentor Challenges](https://www.frontendmentor
+## [Frontend Mentor Challenges](https://www.frontendmentor)
 
 - [Huddle Landing Page](https://huddle-landing-page-frontend-challenge.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-huddle-landing-page)
 
