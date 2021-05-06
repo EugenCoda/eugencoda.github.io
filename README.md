@@ -5,7 +5,6 @@ Portfolio Website
 ## Table of contents
 
 - [React](#react)
-  - [Hangman game](#hangman-game)
 - [Frontend Mentor Challenges](#frontend-mentor-challenges)
   - [Difficulty: Junior](#difficulty-junior)
   - [Difficulty: Newbie](#difficulty-newbie)
