@@ -2,9 +2,25 @@
 
 Portfolio Website
 
-# Some of my recent projects:
+## Table of contents
+
+- [React](#overview)
+  - [Hangman game](#hangman-game)
+- [Frontend Mentor Challenges](#frontend-mentor-challenges)
+  - [Difficulty: Junior](#difficulty-junior)
+  - [Difficulty: Newbie](#difficulty-newbie)
+
+## React
+
+- [Hangman Game](https://hangman-game-built-react.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/hangman-react)
 
 ## [Frontend Mentor Challenges](https://www.frontendmentor)
+
+### Difficulty: Junior
+
+- [Blogr Landing Page](https://blogr-landing-page-frontend-challenge.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-blogr-landing-page)
+
+### Difficulty: Newbie
 
 - [Huddle Landing Page](https://huddle-landing-page-frontend-challenge.netlify.app/), [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-huddle-landing-page)
 
